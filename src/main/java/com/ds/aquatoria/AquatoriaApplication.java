@@ -9,4 +9,5 @@ public class AquatoriaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AquatoriaApplication.class, args);
 	}
+
 }
