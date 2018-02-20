@@ -15,7 +15,7 @@ apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 
 group = 'com.ds'
-version = '0.0.4-SNAPSHOT'
+version = '0.0.4-SNAPSHOT-edited'
 sourceCompatibility = 1.8
 
 repositories {
